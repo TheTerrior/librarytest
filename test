@@ -1,0 +1,2 @@
+cp target/debug/liblibrarytest.so py_tester/librarytest.so
+python py_tester/main.py
